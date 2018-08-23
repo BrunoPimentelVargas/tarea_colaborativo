@@ -1,2 +1,10 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
+
 Bruno Isaac Pimentel Vargas
+
+Ariadna Desirée Galindo Marín
+
+El repositorio remoto actualizado se puede entrar en las url's:
+
+https://github.com/BrunoPimentelVargas/tarea_colaborativo
+https://github.com/ariadnagalindom/tarea_colaborativo
